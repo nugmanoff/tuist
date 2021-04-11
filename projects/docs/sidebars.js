@@ -14,6 +14,7 @@ module.exports = {
       label: 'Features',
       items: [
         'features/dependencies',
+        'features/third-party-dependencies',
         'features/helpers',
         'features/resources',
         'features/environment',
